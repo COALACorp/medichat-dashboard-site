@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14.13mm"
+   height="13.626mm"
+   viewBox="0 0 14.13 13.626"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo-sintomatix-title.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="0.47215208"
+     inkscape:cx="-170.49591"
+     inkscape:cy="136.60853"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.698104,-124.30207)">
+    <g
+       id="Capa_1"
+       transform="matrix(0.26458333,0,0,0.26458333,70.578902,120.56481)">
+      <text
+         transform="translate(17.871,-26.5)"
+         display="none"
+         id="text826"><tspan
+           x="-77.128998"
+           y="9"
+           font-family="Michroma"
+           font-size="22px"
+           fill="#ffffff"
+           id="tspan824">sintomatix</tspan></text>
+      <g
+         id="g892">
+        <rect
+           style="fill:#2d61fa;fill-opacity:1;stroke-width:0.775731"
+           id="rect1268"
+           width="53.404724"
+           height="51.499844"
+           x="15.568638"
+           y="14.125078"
+           ry="6.4862576" />
+        <path
+           d="m 45.631,36.515 h 8.16 v 6.72 h -8.16 v 8.16 h -6.72 v -8.16 h -8.16 v -6.72 h 8.16 v -8.16 h 6.72 z"
+           fill="#ffffff"
+           id="path890" />
+      </g>
+      <text
+         transform="translate(-80.379,-22.5)"
+         display="none"
+         id="text896"><tspan
+           x="-15.379"
+           y="14.5"
+           font-family="RussoOne-Regular"
+           font-size="48px"
+           fill="#ffffff"
+           id="tspan894">+</tspan></text>
+    </g>
+  </g>
+</svg>
